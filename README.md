@@ -9,7 +9,7 @@ Thanks goes to these wonderful people:
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Sam1kumar"><img src="https://avatars.githubusercontent.com/u/86761543?s=40&v=4" width="100px;" alt=""/><br /><sub><b>Sameer Kumar</b></sub></a><br /></td> 
+    <td align="center"><a href="https://github.com/Sam1kumar"><img src="https://avatars.githubusercontent.com/u/86761543?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Sameer Kumar</b></sub></a><br /></td> 
     
   </tr>
   
